@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tSFsDU2GUniJY6ZDSY7
     access-key-secret: s17XczRIHXGJmhZ3YY739mshdp8CQv
     bucket-name: lyle-sky-take-out
+  redis:
+    host: localhost
+    port: 6379
+    auth:
+    database: 10
